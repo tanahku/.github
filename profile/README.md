@@ -13,18 +13,35 @@ By providing this feature, the app aims to assist farmers and gardeners in maxim
 - Inputting soil image
 - Accurate and tailored recommendations
 - Comprehensive database of soil types and crop preferences
-- Factors considered: soil type, humidity, sea level, temperature
 - Access to detailed information about recommended crops
-- Planting instructions, growth requirements, and potential yield information
 - Helping farmers and gardeners maximize productivity
 - Promoting sustainable agricultural practices
 
 ## Technology Stack:
 ### Development Framework:
-#### Built using Kotlin and Jetpack Compose for a modern and intuitive mobile experience.
+Built using Kotlin and Jetpack Compose for a modern and intuitive mobile experience.
 
 ### Machine Learning Model:
-#### Implements Convolutional Neural Network (CNN) for precise soil image classification.
+Implements Convolutional Neural Network (CNN) for precise soil image classification.
+
+### Cloud Computing:
+Build an API endpoint using a Express.js
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
 
 
 <!--
