@@ -50,6 +50,14 @@ This dataset comprises 300 high-quality images showcasing six distinct soil clas
 - Ideal for training and testing machine learning models in soil classification applications.
 - Valuable resource for researchers, educators, and enthusiasts interested in soil diversity.
 
+## Crops Classification Dataset
+
+This dataset comprises 120 high-quality images illustrating six distinct soil classes, with each class featuring 20 representative images of various crops. Specifically curated for agriculture research and education, this dataset offers a well-balanced overview of crop diversity in correlation with different soil types.
+
+### Usage
+
+- **Filtering Recommendation:** Ideal for training machine learning models to recommend crops based on soil types.
+- Valuable resource for researchers, educators, and enthusiasts interested in improving crop selection based on soil characteristics.
 
 <!--
 
