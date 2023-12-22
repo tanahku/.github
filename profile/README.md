@@ -41,9 +41,14 @@ Implements Convolutional Neural Network (CNN) for precise soil image classificat
 ### Cloud Computing:
 Build an API endpoint using a Express.js
 
+## Soil Classification Dataset
 
+This dataset comprises 300 high-quality images showcasing six distinct soil classes, with each class containing 50 representative images. It is intended for use in agriculture, environmental science, and geology research and education, providing a balanced and comprehensive overview of various soil types.
 
-###
+### Usage
+
+- Ideal for training and testing machine learning models in soil classification applications.
+- Valuable resource for researchers, educators, and enthusiasts interested in soil diversity.
 
 
 <!--
