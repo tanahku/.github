@@ -18,15 +18,6 @@ By providing this feature, the app aims to assist farmers and gardeners in maxim
 - Promoting sustainable agricultural practices
 
 ## Technology Stack:
-### Development Framework:
-Built using Kotlin and Jetpack Compose for a modern and intuitive mobile experience.
-
-### Machine Learning Model:
-Implements Convolutional Neural Network (CNN) for precise soil image classification.
-
-### Cloud Computing:
-Build an API endpoint using a Express.js
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
@@ -40,6 +31,17 @@ Build an API endpoint using a Express.js
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+### Development Framework:
+Built using Kotlin and Jetpack Compose for a modern and intuitive mobile experience.
+
+### Machine Learning Model:
+Implements Convolutional Neural Network (CNN) for precise soil image classification.
+
+### Cloud Computing:
+Build an API endpoint using a Express.js
+
+
 
 ###
 
