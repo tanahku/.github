@@ -27,7 +27,7 @@ Implements Convolutional Neural Network (CNN) for precise soil image classificat
 ### Cloud Computing:
 Build an API endpoint using a Express.js
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
