@@ -19,6 +19,14 @@ By providing this feature, the app aims to assist farmers and gardeners in maxim
 - Helping farmers and gardeners maximize productivity
 - Promoting sustainable agricultural practices
 
+## Technology Stack:
+### Development Framework:
+#### Built using Kotlin and Jetpack Compose for a modern and intuitive mobile experience.
+
+### Machine Learning Model:
+#### Implements Convolutional Neural Network (CNN) for precise soil image classification.
+
+
 <!--
 
 **Here are some ideas to get you started:**
